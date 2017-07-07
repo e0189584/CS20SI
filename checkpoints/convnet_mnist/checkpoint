@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist-convnet-2439"
+all_model_checkpoint_paths: "mnist-convnet-2399"
+all_model_checkpoint_paths: "mnist-convnet-2409"
+all_model_checkpoint_paths: "mnist-convnet-2419"
+all_model_checkpoint_paths: "mnist-convnet-2429"
+all_model_checkpoint_paths: "mnist-convnet-2439"
